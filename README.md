@@ -10,5 +10,6 @@ Questions to prove why we Adobe is a good option:
 2. Are the sales consistent/growing/decreasing?
 3. Will they have a use for us?
 4. Is Adobe using AI recruiting system now?
+   --> proof Adobe is looking for new system: https://www.findem.ai/customer-stories/adobe 
 5. Why are they essential? Are the powerful?
 
